@@ -6,4 +6,4 @@ Code to generate bifurcation diagrams for chaotic dynamical systems such as the 
  
  - The notebook `csv_to_datashader.ipynb` uses the package  [Datashader](https://github.com/holoviz/datashader) to generate the diagrams from the .csv files.
  
- <img src="https://github.com/alexeistepa/BifurcDiagrams/blob/main/fullbifurcx_wide.png?raw=true" width="900" height="400">
+ <img src="https://github.com/alexeistepa/BifurcDiagrams/blob/main/fullbifurcx_wide.png?raw=true" width="1100" height="400">
